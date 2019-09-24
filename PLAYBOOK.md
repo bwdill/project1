@@ -10,7 +10,7 @@ This project is written in Java on Windows.
 Fill in here on how to compile or assemble your project. Remember you must not
 include any binary (precompiled) files.
 
-### Compile like any normal java project. I complied and ran mine on eclipse. 
+#### Compile like any normal java project. I complied and ran mine on eclipse. 
 
 ## How to run
 
