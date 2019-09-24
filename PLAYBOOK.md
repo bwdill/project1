@@ -1,9 +1,9 @@
 ## COS 460/540 - Computer Networks
 # Project 1: Number Guessing Server
 
-# <<Brian Dill>>
+# <Brian Dill>
 
-This project is written in <<Java>> on <<Windows>>.
+This project is written in <Java> on <Windows>.
 
 ## How to compile
 
